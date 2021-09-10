@@ -1,8 +1,4 @@
 Shinde
-<<<<<<< HEAD
 Shubham
 
 Address - 404/B wing 400605
-=======
-Shubham
->>>>>>> main
